@@ -25,10 +25,14 @@ pip install numpy scipy matplotlib
 ```
 Ensure that all files are included within the same folder
 
-## Usage
+## Install and Run
+The files can be downloaded via git clone:
+```bash
+git clone https://github.com/nono0410/ME374-EC1.git
+```
 To run the simulation, launch Terminal and open the folder with the Python codes.
 ```bash
-cd ~/EC1
+cd ~/ME374-EC1
 ```
 Run the `main.py` file:
 ```bash
