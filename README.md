@@ -30,6 +30,7 @@ The files can be downloaded via git clone:
 git clone https://github.com/nono0410/ME374-EC1.git
 ```
 Ensure that all files are included within the same folder
+
 To run the simulation, launch Terminal and open the folder with the Python codes.
 ```bash
 cd ~/ME374-EC1
